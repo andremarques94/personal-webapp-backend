@@ -2,8 +2,11 @@
   "name": "server-web-app",
   "version": "1.0.0",
   "description": "Server side for my web-app portfolio",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
+  "engines": {
+    "node": ">=20.11.1"
+  },
   "directories": {
     "test": "test"
   },
